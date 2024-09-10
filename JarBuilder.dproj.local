@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.273,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.980,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.553,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.560,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.995,D:\2027\Mobile Tools\JarBuilder\Main.View.dfm=D:\2025\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.055,D:\2027\Mobile Tools\JarBuilder\API\API.JarBuilder.pas=D:\2027\Mobile Tools\JarBuilder\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.105,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.150,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.014,D:\2027\Mobile Tools\JarBuilder\JarBuilder.dproj=D:\2025\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.995,D:\2027\Mobile Tools\JarBuilder\Main.View.pas=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.853,=D:\2027\Mobile Tools\JarBuilder\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.862,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.521,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.563,=D:\2025\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.712,=D:\2025\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
